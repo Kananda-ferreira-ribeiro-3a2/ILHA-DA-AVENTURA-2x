@@ -1,7 +1,7 @@
 body {
-    background-color: #6600FF;
-    color: #3D1F77;
-    font-family: "Fira Sans", sans-serif;
+    background-color: #FF6633;
+    color: #7D3F00;
+   fontFamily: 'Noto Sans', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,9 +10,9 @@ body {
 }
 
 button {
-    background-color: #6C2C91;
-    color: #3D1F77;
- font-family: "Fira Sans", system-ui;
+    background-color: #FF8C42;
+    color: #7D3F00;
+ fontFamily: 'Noto Sans', system-ui;
 }
 
 .passo {
